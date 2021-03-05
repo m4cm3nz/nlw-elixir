@@ -10,7 +10,7 @@ defmodule Rocketpay.Users.CreateTest do
         name: "Rafael Menz",
         password: "123456",
         nickname: "Rafael",
-        email: "rmcmenz@gmail.com",
+        email: "rafael@gmail.com",
         age: 47
       }
 
@@ -25,7 +25,7 @@ defmodule Rocketpay.Users.CreateTest do
         name: "Rafael Menz",
         password: "",
         nickname: "Rafael",
-        email: "rmcmenz@gmail.com",
+        email: "rafael@gmail.com",
         age: 15
       }
 
